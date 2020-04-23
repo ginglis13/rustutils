@@ -1,0 +1,7 @@
+[workspace]
+members = [
+	"ls",
+	"head",
+	"cat",
+	"yes"
+]
