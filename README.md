@@ -67,7 +67,7 @@ Options:
 
 ### yes
 
-:check:
+:heavy_check_mark::rocket:
 
 ### touch
 
