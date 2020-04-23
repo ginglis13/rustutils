@@ -1,6 +1,7 @@
 # rustutils
 
-A few basic coreutils implementations written in Rust. Contributions welcome.
+A few basic coreutils implementations written in Rust. At the moment, only compatible on Unix.
+Contributions welcome.
 
 ## Building/Running
 
