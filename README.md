@@ -63,10 +63,6 @@ Options:
 **Options left/todo**
 - read from stdin if no file provided
 
-### tail
-
-### pwd
-
 ### yes
 
 :heavy_check_mark::rocket:
@@ -74,7 +70,5 @@ Options:
 ### env
 
 base implemented, just uses `std::env::vars()`
-
-### touch
 
 ### ...
