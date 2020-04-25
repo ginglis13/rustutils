@@ -3,5 +3,6 @@ members = [
 	"ls",
 	"head",
 	"cat",
-	"yes"
+	"yes",
+	"env",
 ]
