@@ -1,0 +1,8 @@
+[package]
+name = "env"
+version = "0.1.0"
+authors = ["Gavin Inglis <ginglis05@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+getopts = "0.2"
