@@ -71,6 +71,10 @@ Options:
 
 :heavy_check_mark::rocket:
 
+### env
+
+base implemented, just uses `std::env::vars()`
+
 ### touch
 
 ### ...
